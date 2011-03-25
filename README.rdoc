@@ -1,0 +1,11 @@
+
+= MiniSpecUnit
+
+Make Test::Unit::TestCase a subclass of of MiniTest::Spec with this simple shim.
+
+
+= Code
+
+* http://github.com/metaskills/mini_specunit
+
+
