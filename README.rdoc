@@ -1,7 +1,9 @@
 
 = MiniSpecUnit
 
-Make Test::Unit::TestCase a subclass of of MiniTest::Spec with this simple shim.
+Make Test::Unit::TestCase a subclass of of MiniTest::Spec with this simple shim. Full details here:
+
+http://metaskills.net/2011/03/26/using-minitest-spec-with-rails/
 
 
 = Code
