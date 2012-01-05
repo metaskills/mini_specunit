@@ -1,11 +1,9 @@
 require 'minitest/spec'
+require 'test/unit/assertions'
 require 'pp'
 
 module Test
   module Unit
-    
-    Assertions = ::MiniTest::Assertions
-    
     class TestCase < ::MiniTest::Spec
       
       MINI_SPECUNIT = true
