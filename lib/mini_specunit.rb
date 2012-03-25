@@ -1,3 +1,4 @@
 require 'minitest/spec'
-require 'mini_specunit/version'
 require 'test/unit/testcase'
+require 'mini_specunit/version'
+require 'mini_specunit/test_case'
