@@ -6,8 +6,11 @@ Make Test::Unit::TestCase a subclass of of MiniTest::Spec with this simple shim.
 http://metaskills.net/2011/03/26/using-minitest-spec-with-rails/
 
 
-= Code
+= Update!
 
-* http://github.com/metaskills/mini_specunit
+If you are using this with Rails 3, please use the minitest-spec-rails gem instead!!!
+
+http://github.com/metaskills/minitest-spec-rails
+
 
 
